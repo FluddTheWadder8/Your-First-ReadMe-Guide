@@ -7,7 +7,9 @@ With Software Name You Can:
 1. Feauture
 2. Feauture
 3. Feauture
+
 Thanks again for downloading Software Name!
 # Optional 
 If avalible on GitHub: You can find this page on github at github.com/username/Software-Name
+
 If you have a Minecraft account: My Minecraft username is Username.
